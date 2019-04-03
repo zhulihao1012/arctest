@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+<item
+    android:id="@+id/nav_call"
+
+    android:title="退出"/>
+
+
+
+        <item
+            android:id="@+id/shuaxin"
+
+            android:title="刷新"/>
+
+        <item
+            android:id="@+id/register"
+            android:title="清空人脸库"/>
+        <item
+            android:id="@+id/zc"
+            android:title="注册人脸库"/>
+        <item
+            android:id="@+id/zzzz"
+            android:title="zzz"/>
+
+    </group>
+
+</menu>
